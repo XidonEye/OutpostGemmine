@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>OutpostsGemMine</name>
+	<author>Xeyeco</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>xeyeco.gemmine.voe</packageId>
+	<description>Vanilla Outposts Expanded, Jewelry, Gems for Jewelry</description>
+		<modDependencies>
+        <li>
+            <packageId>vanillaexpanded.outposts</packageId>
+            <displayName>Vanilla Outposts Expanded</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<loadAfter>
+		<li>vanillaexpanded.outposts</li>
+		<li>kikohi.jewelry</li>
+		<li>bg.gfj</li>
+		<li>Mlie.Gems</li>
+    </loadAfter>
+</ModMetaData>
