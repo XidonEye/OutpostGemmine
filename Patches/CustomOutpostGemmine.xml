@@ -20,7 +20,7 @@
 							<worldObjectClass>Outposts.Outpost_ChooseResult</worldObjectClass>
 							<modExtensions>
 								<li Class="KCSG.CustomGenOption">
-									<useStructureLayout>True</useStructureLayout>
+									<preventBridgeable>true</preventBridgeable>
 									<chooseFromlayouts>
 										<li>Outpost_Struct_Mining</li>
 									</chooseFromlayouts>
